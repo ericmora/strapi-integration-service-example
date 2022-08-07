@@ -1,0 +1,26 @@
+{
+  "name": "strapiname-example",
+  "version": "0.0.1",
+  "description": "It's an integration service example that you can use as a template if you use the strapi-webhook-reciever-plugin.",
+  "strapi": {
+    "name": "strapiname-example",
+    "description": "It's an integration service example that you can use as a template if you use the strapi-webhook-reciever-plugin.",
+    "kind": "plugin",
+    "displayName": "Example"
+  },
+  "dependencies": {},
+  "author": {
+    "name": "Eric Mora",
+    "email": "ericmora82@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "Eric Mora"
+    }
+  ],
+  "engines": {
+    "node": ">=14.19.1 <=16.x.x",
+    "npm": ">=6.0.0"
+  },
+  "license": "MIT"
+}
